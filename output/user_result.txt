@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-05 18:45:46,url
+2025-04-06 06:41:07,url
 📺央视频道,#genre#
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$酒店源|1920x1080
 CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$酒店源
@@ -324,9 +324,14 @@ CETV2,http://122.9.151.210:5431/rtp/238.255.2.221:5999$组播源
 CETV4,http://122.9.151.210:5431/rtp/238.255.2.222:5999$组播源
 
 💰央视付费频道,#genre#
+文化精品,http://60.7.56.33:4000/rtp/239.253.92.25:6104$酒店源
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$订阅源|IPv6
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$酒店源
+女性时尚,http://60.7.56.33:4000/rtp/239.253.92.249:6103$酒店源
+女性时尚,http://60.7.56.33:4000/rtp/239.253.92.144:6114$酒店源
 风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+电视指南,http://60.7.56.33:4000/rtp/239.253.92.17:6078$酒店源
+电视指南,http://60.7.56.33:4000/rtp/239.253.93.249:6427$酒店源
 世界地理,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_SHIJIEDL-CQ$订阅源
 
 📡卫视频道,#genre#
@@ -684,15 +689,15 @@ CETV4,http://122.9.151.210:5431/rtp/238.255.2.222:5999$组播源
 青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$订阅源
 青海卫视,http://61.138.128.226:19901/tsfile/live/0140_1.m3u8$订阅源
 青海卫视,http://58.19.43.46:9901/tsfile/live/1014_1.m3u8$订阅源
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030$订阅源
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=7bfff5cd40297ac2c258f598f97f36a47e8d0d19763d61ff6f62aff98021e7fcafa9b64df934c1ca76302e804fb60ce17856d30a33b7965613665d25cce09f43302170684a7e39c85290af3bd3$订阅源|1920x1080
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8$订阅源
 青海卫视,http://tv.2cf.x10.mx/2hl/3221226323/index.m3u8?ace$订阅源
 青海卫视,http://tv.2cf.x10.mx/2hl/3221225628/index.m3u8?ace$订阅源
+青海卫视,https://stream1.freetv.fun/fad5348a9b285c835736b9f812f4785acff0120fc543ca59063b87dca13e7229.m3u8$订阅源
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-95.m3u8$订阅源
 青海卫视,http://[2409:8087:1a0a:df::4037]:80/wh7f454c46tw2412256287_-144096703/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8?icpid=88888888&RTS=1713969241&from=4&hms_devid=1211&online=1713969241&vqe=3$订阅源|IPv6
 青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$订阅源|IPv6
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=ec4caf3a1732073773$订阅源
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=e2bbe63d1714196546$订阅源
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-121.m3u8$订阅源
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-64.m3u8$订阅源
 山东卫视,http://61.138.128.226:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$酒店源
 山东卫视,http://116.128.242.83:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -1004,7 +1009,6 @@ CETV4,http://122.9.151.210:5431/rtp/238.255.2.222:5999$组播源
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.ctv$酒店源
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv$酒店源
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-16.ctv$酒店源
-凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$订阅源|1920x1080
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-4.ctv$订阅源
 凤凰资讯,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8$订阅源
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv$订阅源
@@ -1014,6 +1018,7 @@ CETV4,http://122.9.151.210:5431/rtp/238.255.2.222:5999$组播源
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-11.ctv$订阅源
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$订阅源
 凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8$订阅源
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv$订阅源
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv$订阅源
 凤凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv$订阅源
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv$订阅源
@@ -1076,6 +1081,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源|1920x1080
 无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源|1920x1080
 无线新闻,https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.m3u8$订阅源
 无线新闻,http://r.jdshipin.com/CkuBd$订阅源
+三立新闻,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14$订阅源|1920x1080
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8$订阅源
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
@@ -1085,7 +1091,6 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源|1920x1080
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-2.ctv$订阅源
 三立新闻,https://tv.iill.top/4gtv/229$订阅源
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
-三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8$订阅源
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 东森综合,https://stream1.freetv.fun/226ab2f3bdc9d0a3f07d22b13532ba92c0c3d78ea31f0dac0eac6091369a516e.ctv$订阅源
@@ -1167,7 +1172,7 @@ CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&play
 淘电影,https://stream1.freetv.fun/tao-dian-ying-8.ctv$订阅源
 NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8$订阅源|IPv6
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源|IPv6
-NewTV动作电影,http://43.138.0.72:35455/yy/1382736823$订阅源
+NewTV动作电影,http://43.138.0.72:35455/yy/1382736823$订阅源|1920x1080
 黑莓电影,http://tv.2cf.x10.mx/2hl/3221225743/index.m3u8?ace$订阅源
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=yu&mode=1&$订阅源
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=yu&mode=1&$订阅源
@@ -1309,11 +1314,11 @@ CCTV-5+,https://tv.bfsu.edu.cn/hls/cctv5phd.m3u8$订阅源
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-2.m3u8$订阅源
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-3.m3u8$订阅源
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-13.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-5.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-2.m3u8$订阅源
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-6.m3u8$订阅源
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-21.ctv$订阅源
@@ -1358,8 +1363,8 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-3.m3u8$订阅源
 动漫秀场,https://stream1.freetv.fun/c1a9c0728c4a8d7636c7de8d4f69f3abdc906231ea7f7e72d59433843738617f.m3u8$订阅源
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-2.m3u8$订阅源
-青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源|1920x1080
-宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源|1920x1080
+青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源
+宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 优漫卡通,https://stream1.freetv.fun/you-man-qia-tong-17.ctv$酒店源
 优漫卡通,https://stream1.freetv.fun/ipv6-you-man-qia-tong-18.m3u8$酒店源
@@ -1400,7 +1405,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia$订阅源
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8$订阅源|IPv6
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源|IPv6
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140$组播源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-8.m3u8$订阅源
@@ -1440,7 +1444,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy$订阅源
-电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源|1920x1080
+电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,http://61.138.128.226:19901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$酒店源
@@ -1465,23 +1469,13 @@ CCTV-15,http://110.7.131.4:9901/tsfile/live/0014_2.m3u8?key=txiptv&playlive=1&au
 
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
-鹿鼎记,https://lunbo.freetv.top/yy/1354658049$订阅源
-鹿鼎记,https://lunbo.freetv.top/yy/28265277$订阅源
-仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903$订阅源
-三国演义,https://lunbo.freetv.top/yy/1354930932$订阅源
-新白娘子传奇,https://lunbo.freetv.top/yy/1354930969$订阅源
-封神榜,https://lunbo.freetv.top/yy/1353426319$订阅源
-射雕英雄传,https://lunbo.freetv.top/yy/1354210357$订阅源
 
 🈳无结果频道,#genre#
 CETV5,url
-文化精品,url
 风云音乐,url
 风云剧场,url
 怀旧剧场,url
-女性时尚,url
 高尔夫网球,url
-电视指南,url
 兵器科技,url
 纬来育乐,url
 Now剧集,url
@@ -1559,6 +1553,7 @@ Now华剧,url
 爱动漫,url
 中录动漫,url
 炫动卡通,url
+24H国漫热播,url
 经典动漫,url
 漫画解说,url
 游戏竞技,url
@@ -1570,8 +1565,14 @@ Now华剧,url
 天津音乐,url
 音乐广播,url
 天龙八部,url
+鹿鼎记,url
+仙剑奇侠传,url
 西游记,url
+三国演义,url
 水浒传,url
+新白娘子传奇,url
 济公游记,url
+封神榜,url
 闯关东,url
 上海滩,url
+射雕英雄传,url
